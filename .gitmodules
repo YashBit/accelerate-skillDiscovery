@@ -1,1 +1,4 @@
 
+[submodule "generalized-hindsight"]
+	path = generalized-hindsight
+	url = https://github.com/YashBit/generalized-hindsight.git
