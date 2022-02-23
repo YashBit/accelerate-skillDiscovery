@@ -1,0 +1,3 @@
+[submodule "generalized-hindsight"]
+	path = generalized-hindsight
+	url = https://github.com/alexlioralexli/generalized-hindsight.git
