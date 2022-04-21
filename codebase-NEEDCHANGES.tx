@@ -1,0 +1,7 @@
+
+1. Make sure relative imports are correct 
+2. Correctly install and ready to run conda environment
+
+3. Some files have been hardcoded into the sys path, hence they will not run on other machines. Need to change the hierarchy and make correct relative imports.
+
+4. CLEAR all the helper comments, they make the code look unclean. 

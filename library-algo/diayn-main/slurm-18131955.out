@@ -1,0 +1,38 @@
+/bin/bash: line 2: source: /ext3/pytorch_sac: is a directory
+workspace: /home/yb1025/Research/GRAIL/relabeler-irl/accelerate-skillDiscovery/library-algo/diayn-main/exp/2022.04.15/2103_diayn_test_exp
+RLKIT ANT ENV IS USED: 
+The capacity in REPLAYBUFFER is : 5000000
+| [33mtrain[0m | E: 8 | S: 114690 | R: -24.8512 | D: 1387.2 s | BR: 1.3827 | ALOSS: -107.6484 | CLOSS: 0.3562 | TLOSS: 0.0924 | TVAL: 0.0306 | AENT: -6.2363
+| [33mtrain[0m | E: 9 | S: 115134 | R: -94170.6076 | D: 05.6 s | BR: 1.3693 | ALOSS: -167.0126 | CLOSS: 9.3229 | TLOSS: -0.0031 | TVAL: 0.0441 | AENT: -8.0707
+| [33mtrain[0m | E: 10 | S: 115164 | R: -697.7382 | D: 00.4 s | BR: 1.3814 | ALOSS: -167.8314 | CLOSS: 25.5064 | TLOSS: -0.0346 | TVAL: 0.0444 | AENT: -8.7795
+| [33mtrain[0m | E: 11 | S: 115221 | R: -26.1301 | D: 00.7 s | BR: 1.3328 | ALOSS: -167.3736 | CLOSS: 38.2943 | TLOSS: 0.0134 | TVAL: 0.0446 | AENT: -7.6993
+| [33mtrain[0m | E: 12 | S: 115279 | R: -80.0246 | D: 00.7 s | BR: 1.3326 | ALOSS: -168.0518 | CLOSS: 26.9248 | TLOSS: 0.0162 | TVAL: 0.0442 | AENT: -7.6346
+| [33mtrain[0m | E: 13 | S: 193041 | R: -114.8129 | D: 986.5 s | BR: 1.3817 | ALOSS: -185.8677 | CLOSS: 2.8211 | TLOSS: -0.0004 | TVAL: 0.0550 | AENT: -8.0082
+| [33mtrain[0m | E: 14 | S: 193078 | R: -103030.6579 | D: 00.5 s | BR: 1.3828 | ALOSS: -196.3567 | CLOSS: 4.5765 | TLOSS: -0.0190 | TVAL: 0.0550 | AENT: -8.3454
+| [33mtrain[0m | E: 15 | S: 193094 | R: -91.8423 | D: 00.2 s | BR: 1.3841 | ALOSS: -195.6087 | CLOSS: 9.2188 | TLOSS: -0.0274 | TVAL: 0.0552 | AENT: -8.4963
+| [33mtrain[0m | E: 16 | S: 307537 | R: -24.5662 | D: 1453.9 s | BR: 1.3560 | ALOSS: -246.5576 | CLOSS: 1.5613 | TLOSS: 0.0005 | TVAL: 0.0382 | AENT: -7.9887
+| [33mtrain[0m | E: 17 | S: 307560 | R: -132536.5567 | D: 00.3 s | BR: 1.3543 | ALOSS: -205.7353 | CLOSS: 1.0873 | TLOSS: 0.0055 | TVAL: 0.0300 | AENT: -7.8160
+| [33mtrain[0m | E: 18 | S: 307596 | R: -17.7139 | D: 00.4 s | BR: 1.3469 | ALOSS: -206.0177 | CLOSS: 1.9447 | TLOSS: 0.0039 | TVAL: 0.0299 | AENT: -7.8687
+| [33mtrain[0m | E: 19 | S: 307663 | R: -26.0701 | D: 00.8 s | BR: 1.3397 | ALOSS: -205.7382 | CLOSS: 3.2451 | TLOSS: 0.0002 | TVAL: 0.0298 | AENT: -7.9941
+| [33mtrain[0m | E: 20 | S: 307704 | R: -100.2407 | D: 00.5 s | BR: 1.3292 | ALOSS: -205.6572 | CLOSS: 4.7739 | TLOSS: 0.0013 | TVAL: 0.0299 | AENT: -7.9549
+| [33mtrain[0m | E: 21 | S: 307720 | R: -77.8880 | D: 00.2 s | BR: 1.3080 | ALOSS: -205.9005 | CLOSS: 7.7985 | TLOSS: 0.0046 | TVAL: 0.0298 | AENT: -7.8471
+| [33mtrain[0m | E: 22 | S: 307785 | R: -14.4285 | D: 00.8 s | BR: 1.3326 | ALOSS: -205.5119 | CLOSS: 9.4272 | TLOSS: -0.0080 | TVAL: 0.0299 | AENT: -8.2667
+| [33mtrain[0m | E: 23 | S: 307805 | R: -121.2895 | D: 00.3 s | BR: 1.3388 | ALOSS: -205.1611 | CLOSS: 3.2036 | TLOSS: -0.0051 | TVAL: 0.0300 | AENT: -8.1699
+| [33mtrain[0m | E: 24 | S: 307878 | R: -25.0356 | D: 00.9 s | BR: 1.3408 | ALOSS: -205.2145 | CLOSS: 13.2412 | TLOSS: -0.0027 | TVAL: 0.0300 | AENT: -8.0906
+| [33mtrain[0m | E: 25 | S: 307959 | R: -160.1522 | D: 01.0 s | BR: 1.3397 | ALOSS: -205.2673 | CLOSS: 4.7086 | TLOSS: 0.0067 | TVAL: 0.0301 | AENT: -7.7781
+| [33mtrain[0m | E: 26 | S: 308008 | R: -117.2557 | D: 00.6 s | BR: 1.3150 | ALOSS: -205.3056 | CLOSS: 10.5932 | TLOSS: -0.0057 | TVAL: 0.0300 | AENT: -8.1903
+| [33mtrain[0m | E: 27 | S: 308059 | R: -102.3413 | D: 00.6 s | BR: 1.3318 | ALOSS: -205.4104 | CLOSS: 6.4368 | TLOSS: -0.0017 | TVAL: 0.0301 | AENT: -8.0570
+| [33mtrain[0m | E: 28 | S: 308091 | R: -101.9409 | D: 00.4 s | BR: 1.3385 | ALOSS: -205.4658 | CLOSS: 6.5628 | TLOSS: 0.0110 | TVAL: 0.0301 | AENT: -7.6352
+| [33mtrain[0m | E: 29 | S: 308138 | R: -86.3283 | D: 00.6 s | BR: 1.3270 | ALOSS: -205.1064 | CLOSS: 14.4845 | TLOSS: 0.0132 | TVAL: 0.0299 | AENT: -7.5583
+| [33mtrain[0m | E: 30 | S: 308226 | R: -110.0950 | D: 01.1 s | BR: 1.3354 | ALOSS: -204.9556 | CLOSS: 9.5520 | TLOSS: 0.0126 | TVAL: 0.0296 | AENT: -7.5755
+| [33mtrain[0m | E: 31 | S: 308298 | R: -140.7569 | D: 00.9 s | BR: 1.3317 | ALOSS: -205.1055 | CLOSS: 9.9216 | TLOSS: 0.0125 | TVAL: 0.0293 | AENT: -7.5736
+| [33mtrain[0m | E: 32 | S: 311603 | R: -104.2093 | D: 42.2 s | BR: 1.3365 | ALOSS: -204.0098 | CLOSS: 7.3601 | TLOSS: 0.0063 | TVAL: 0.0268 | AENT: -7.7638
+| [33mtrain[0m | E: 33 | S: 311662 | R: -4852.8809 | D: 00.8 s | BR: 1.3346 | ALOSS: -203.2828 | CLOSS: 6.7083 | TLOSS: -0.0008 | TVAL: 0.0248 | AENT: -8.0325
+| [33mtrain[0m | E: 34 | S: 311704 | R: -79.9246 | D: 00.5 s | BR: 1.3353 | ALOSS: -203.1072 | CLOSS: 9.8792 | TLOSS: 0.0036 | TVAL: 0.0248 | AENT: -7.8565
+| [33mtrain[0m | E: 35 | S: 402111 | R: -64.9109 | D: 1147.5 s | BR: 1.3420 | ALOSS: -183.3056 | CLOSS: 0.9956 | TLOSS: 0.0002 | TVAL: 0.0186 | AENT: -7.9904
+| [33mtrain[0m | E: 36 | S: 402254 | R: -75736.6411 | D: 01.8 s | BR: 1.3279 | ALOSS: -176.9697 | CLOSS: 3.4756 | TLOSS: 0.0004 | TVAL: 0.0182 | AENT: -7.9757
+| [33mtrain[0m | E: 37 | S: 539749 | R: -329.0139 | D: 1745.8 s | BR: 1.3425 | ALOSS: -177.6879 | CLOSS: 0.6082 | TLOSS: -0.0001 | TVAL: 0.0202 | AENT: -8.0033
+| [33mtrain[0m | E: 38 | S: 539784 | R: -144995.1990 | D: 00.4 s | BR: 1.3316 | ALOSS: -184.0454 | CLOSS: 0.7382 | TLOSS: 0.0002 | TVAL: 0.0230 | AENT: -7.9916
+| [33mtrain[0m | E: 39 | S: 539868 | R: -74.2867 | D: 01.0 s | BR: 1.3337 | ALOSS: -184.2487 | CLOSS: 1.6975 | TLOSS: 0.0017 | TVAL: 0.0230 | AENT: -7.9263
+| [33mtrain[0m | E: 40 | S: 539889 | R: -100.8978 | D: 00.3 s | BR: 1.3365 | ALOSS: -183.5236 | CLOSS: 0.7049 | TLOSS: 0.0063 | TVAL: 0.0229 | AENT: -7.7245
+| [33mtrain[0m | E: 41 | S: 539941 | R: -26.4725 | D: 00.7 s | BR: 1.3369 | ALOSS: -184.2550 | CLOSS: 1.9272 | TLOSS: 0.0015 | TVAL: 0.0229 | AENT: -7.9358
